@@ -1,4 +1,12 @@
 def count_words_in_file(filename): # function to count the number of words in a file
+    """
+    Counts the number of words in the specified file.
+    Parameters:
+    filename (str): The name of the file to read.
+    Returns:
+    int: The number of words in the file.
+         Returns 0 if the file is not found.
+    """
     try:
         with open(filename, 'r') as file:
             text = file.read()
@@ -9,6 +17,8 @@ def count_words_in_file(filename): # function to count the number of words in a 
         return 0
 
 def guest_book(): # function to manage the guest book
+    """
+    Manages a simple guest book. Continuously prompts users to enter their names and appends each name to a file named 'guest_book.txt'. Users can type 'q' to quit """
     print("\nGuest Book")
     print("Enter 'q' to quit.")
     while True:
@@ -21,6 +31,13 @@ def guest_book(): # function to manage the guest book
             file.write(f"{name} visited the site.\n")
 
 def read_file(filename): # function to read and print the contents of a file
+    """
+    Reads and displays the contents of the specified file.
+    Parameters:
+    filename (str): The name of the file to read.
+    Returns:
+    None
+    """
     try:
         with open(filename, 'r') as file:
             print(f"\nContents of {filename}:")

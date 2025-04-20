@@ -1,3 +1,4 @@
+""" Prompts the user to input two numbers, calculates their sum, and displays the result. If the input is not a valid integer, an error message is displayed."""
 try:
     num1 = int(input("Enter the first number: "))
     num2 = int(input("Enter the second number: "))
