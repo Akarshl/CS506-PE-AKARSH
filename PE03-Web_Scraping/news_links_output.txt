@@ -13,20 +13,20 @@ https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-m
 π0.5: A VLA with open-world generalization
 https://pi.website/blog/pi05
 
+The Truth about Atlantis (2019)
+https://talesoftimesforgotten.com/2019/03/26/the-truth-about-atlantis/
+
 Are polynomial features the root of all evil? (2024)
 https://alexshtf.github.io/2024/01/21/Bernstein.html
 
 Show HN: Rowboat – Open-source IDE for multi-agent systems
 https://github.com/rowboatlabs/rowboat
 
-A study of lightning fatalities inside buildings while using smartphones [pdf] (2024)
-https://electricalsafetyworkshop.org/wp-content/uploads/sites/255/ESW2024-19.pdf
-
 The complex origin story of domestic cats
 https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html
 
-The Truth about Atlantis (2019)
-https://talesoftimesforgotten.com/2019/03/26/the-truth-about-atlantis/
+A study of lightning fatalities inside buildings while using smartphones [pdf] (2024)
+https://electricalsafetyworkshop.org/wp-content/uploads/sites/255/ESW2024-19.pdf
 
 Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)
 https://www.hey.earth/posts/duckdb-doom
@@ -46,11 +46,14 @@ https://phys.org/news/2025-04-native-american-earthquake-history-northeastern.ht
 Supabase raises $200M Series D at $2B valuation
 https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html
 
-Launch HN: Infra.new (YC W23) – DevOps copilot with guardrails built in
-https://news.ycombinator.com/item?id=43763026
-
 Detecting if an expression is constant in C
 https://nrk.neocities.org/articles/c-constexpr-macro
+
+Can a single AI model advance any field of science?
+https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai
+
+Launch HN: Infra.new (YC W23) – DevOps copilot with guardrails built in
+https://news.ycombinator.com/item?id=43763026
 
 The raccoons who made computer magazine ads great
 https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/
@@ -58,11 +61,11 @@ https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/
 Surprises in Logic (2016)
 https://math.ucr.edu/home/baez/surprises.html
 
+Everyday life improvements since the 90s (2022)
+https://gwern.net/improvement
+
 Parcom: CL Parser Combinators
 https://github.com/fosskers/parcom
-
-Can a single AI model advance any field of science?
-https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai
 
 David Tong Lectures on Theoretical Physics
 https://www.damtp.cam.ac.uk/user/tong/books.html
@@ -73,18 +76,15 @@ https://nullprogram.com/blog/2025/04/19/
 Show HN: I built a Ruby gem that handles memoization with a ttl
 https://github.com/mishalzaman/memo_ttl
 
-Everyday life improvements since the 90s (2022)
-https://gwern.net/improvement
+Join the W3C Exploration Interest Group: where standards start
+https://www.w3.org/blog/2025/join-the-w3c-exploration-interest-group-where-standards-start/
+
+It Does Not Take 21 Days to Form a Habit
+https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/
 
 I started a devblog about mixing SwiftUI and C++ to make a Twitch app
 https://www.kulve.org/blog/tech_stack
 
-Join the W3C Exploration Interest Group: where standards start
-https://www.w3.org/blog/2025/join-the-w3c-exploration-interest-group-where-standards-start/
-
 Pike – a dynamic programming language with a syntax similar to Java and C
 https://pike.lysator.liu.se/
-
-Libro: a command-line tool to track your books
-https://github.com/mkaz/libro
 
